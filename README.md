@@ -1,7 +1,7 @@
 # Chandana-Profile
 Hey 👋, I’m **CHANDANA ENUGALA** (Passionate ML Engineer with python) !
 -------------------------------------------------------------------------
-<a href="https://github.com/chandanareddy-enugala6">
+<a href="https://github.com/chandanareddy-enugala">
 <img align="left" alt="Chandana's GitHub" width="22px" src="http://cdn.onlinewebfonts.com/svg/img_326384.png" />
 </a>
 <a href="https://www.linkedin.com/in/chandana-enugala-6bb102135/">
