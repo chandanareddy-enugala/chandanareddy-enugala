@@ -49,18 +49,18 @@ Apart from my research on Artificial intelligence , I enjoy listening music 🎧
 **Projects in GitHub**
 --------------------------------
 Regression Problems
-- Car Price Prediction
-- Flight Fare Prediction
-- House Price Prediction
+- [Car Price Prediction](https://github.com/chandanareddy-enugala/Car_Price_Prediction)
+- [Flight Fare Prediction](https://github.com/chandanareddy-enugala/Flight_Fare_Prediction)
+- [House Price Prediction](https://github.com/chandanareddy-enugala/House_Price_Prediction)
 
 Classification Problems
-- IRIS Flowers Prediction
-- Fake News Prediction
-- Hiring Prediction and Deploying in Heroku using FLASK
-- IPL Prediction
-- Wafers Fault Detection
-- Back Order Prediction
-- Thyroid Detection
+- [IRIS Flowers Prediction](https://github.com/chandanareddy-enugala/IRIS_Flowers_Prediction)
+- [Fake News Prediction](https://github.com/chandanareddy-enugala/Fake_News_Prediction)
+- [Hiring Prediction](https://github.com/chandanareddy-enugala/Hiring_Prediction)
+- [IPL Prediction](https://github.com/chandanareddy-enugala/IPL_Match_Prediction)
+- [Wafers Fault Detection](https://github.com/chandanareddy-enugala/Wafers_Fault_Detection)
+- [Back Order Prediction](https://github.com/chandanareddy-enugala/Back_Order_Prediction)
+- [Thyroid Detection](https://github.com/chandanareddy-enugala/Thyroid_Detection_Project)
 
 
 **My Digital Garden 🌱** [give some ♥]
