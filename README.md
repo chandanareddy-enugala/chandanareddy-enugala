@@ -22,7 +22,7 @@ Hey 👋, I’m **CHANDANA ENUGALA** (Passionate ML Engineer with python) !
 
 **About me**
 ------------
-Hi I am a passionate engineer 👨 having knowledge in predictive modelling, data processing, and data mining algorithms to solve challenging 🚀 business problems. Strong background in Python libraries and knowledge of various types of machine learning techniques, developing end-to-end Master's projects with all cloud like AWS, SQL and productionize the Machine Learning models with Heroku. And I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.
+Hi I am a passionate ML engineer 👨 having knowledge in predictive modelling, data processing, and data mining algorithms to solve challenging 🚀 business problems. Strong background in Python libraries and knowledge of various types of machine learning techniques, developing end-to-end Master's projects with all cloud like AWS, SQL and productionize the Machine Learning models with Heroku. And I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.
 
 Apart from my research on Artificial intelligence , I enjoy listening music 🎧 and traveling 🏖️ and playing X-Boxgames 🎮.
 
