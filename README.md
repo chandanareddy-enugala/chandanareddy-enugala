@@ -1,4 +1,4 @@
-# Chandana-Profile
+# My Profile
 Hey 👋, I’m **CHANDANA ENUGALA** (Passionate ML Engineer with python) !
 -------------------------------------------------------------------------
 <a href="https://github.com/chandanareddy-enugala">
